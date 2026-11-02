@@ -1,0 +1,62 @@
+ID,Resource,Rights status,Important limitation,Build dependency,Licence / rights link,Checked
+OL-001,React Flow,Verified,Pro templates/services may have separate commercial terms.,React,https://reactflow.dev/,2026-10-27
+OL-002,Phaser,Verified,Core engine permissive; bundled artwork is not automatically reusable.,JavaScript,https://phaser.io/download/license,2026-10-27
+OL-003,Cytoscape.js,Verified,Framework supplies display and graph analysis; you need your own edges.,JavaScript,https://github.com/cytoscape/cytoscape.js,2026-10-27
+OL-004,The Met Open Access,Item check,Use public-domain image flags; some object metadata references copyrighted works.,Met API,https://metmuseum.github.io/,2026-10-27
+OL-005,Public Domain Review,Item check,Underlying item and digital reproduction rights may differ by country.,Item provenance,https://publicdomainreview.org/reusing-material,2026-10-27
+OL-006,Wikidata,Verified,Free structured data; referenced third-party images/text not automatically CC0.,SPARQL endpoint/API,https://www.wikidata.org/wiki/Wikidata:Licensing,2026-10-27
+OL-007,Historic England Open Data,Scope check,"Data licence distinct from third-party map tiles, photos and site access.",Open Data Hub,https://historicengland.org.uk/listing/the-list/data-downloads/,2026-10-27
+OL-008,OpenStreetMap,Verified,Attribution and share-alike obligations for derivative databases; tile-provider terms also apply.,Map provider / Leaflet,https://www.openstreetmap.org/copyright,2026-10-27
+OL-009,OpenAlex,Verified,OpenAlex metadata is not a licence for linked full-text articles; special MAG export differs.,OpenAlex API,https://github.com/ourresearch/openalex-docs/blob/main/license.md,2026-10-27
+OL-010,OSM + Historic England mashup,Scope check,Plan how attribution and database obligations apply before combining datasets.,Mapping and data join,https://www.openstreetmap.org/copyright,2026-10-27
+OL-011,Wikidata + Met mashup,Item check,Display only images with confirmed open rights.,Graph explorer,https://www.wikidata.org/wiki/Wikidata:Licensing,2026-10-27
+OL-012,data.gov.uk,Scope check,Directory is not blanket reuse permission; check each source.,Dataset discovery,https://guidance.data.gov.uk/get_data/,2026-10-27
+OL-013,Ink,Verified,Story content is yours; verify any embedded art or music separately.,Story writing and optional web runner,https://github.com/inkle/ink#license,2026-10-27
+OL-014,boardgame.io,Verified,Framework is not a ready-to-play Mahjong implementation.,JavaScript and small frontend,https://boardgame.io/,2026-10-27
+OL-015,Smithsonian Open Access,Item check,Use CC0-labelled items; not all Smithsonian media are CC0.,Open Access API,https://www.si.edu/openaccess/faq,2026-10-27
+OL-016,Europeana,Item check,Check each digital object's rights statement before displaying or editing media.,Europeana API,https://www.europeana.eu/en/rights/terms-of-use,2026-10-27
+OL-017,BGS OpenGeoscience,Scope check,Open datasets vary; commercial BGS data products are not the same thing.,OpenGeoscience tools,https://www.bgs.ac.uk/geological-data/opengeoscience/,2026-10-27
+OL-018,Natural History Museum Data Portal,Item check,Must inspect specimen/media dataset terms and completeness.,Dataset portal,https://data.nhm.ac.uk/,2026-10-27
+OL-019,Food Hygiene Ratings API,API terms,Check terms and country-specific rating differences; not a restaurant review app.,FHRS API,https://ratings.food.gov.uk/open-data,2026-10-27
+OL-020,Creative Commons Open Heritage,Scope check,"Discovery resource, not a single reusable dataset.",Research,https://creativecommons.org/project/open-heritage/,2026-10-27
+OL-021,Smithsonian API & Data Tools,Item check,API may need registration; some records contain metadata but restricted assets.,API key/3D renderer,https://www.si.edu/openaccess/faq,2026-10-27
+OL-022,Wikidata + OpenAlex mashup,Scope check,Entity matching/quality needs checking; full article rights vary.,Wikidata/OpenAlex APIs,https://github.com/ourresearch/openalex-docs/blob/main/license.md,2026-10-27
+OL-023,GDevelop,Verified,"Asset store, cloud services and publishing quotas may differ from editor licence.",GDevelop editor,https://gdevelop.io/page/terms-and-conditions,2026-10-27
+OL-024,Godot,Verified,Game assets and plugins need separate checks.,Godot editor,https://godotengine.org/license/,2026-10-27
+OL-025,Excalidraw,Verified,"Check font, image-library and hosted service terms separately.",React / embedding,https://github.com/excalidraw/excalidraw/blob/master/LICENSE,2026-10-27
+OL-026,H5P,Scope check,Some PHP components GPL and individual shared content is separately licensed.,Hosting or compatible platform,https://h5p.org/licensing,2026-10-27
+OL-027,MusicBrainz,Scope check,Core vs supplementary data licensing is importantly different.,MusicBrainz API,https://musicbrainz.org/doc/About/Data_License,2026-10-27
+OL-028,Open Library,API terms,"Respect API low-volume, mission-aligned use, caching and commercial backend limits.",API or bulk dumps,https://openlibrary.org/help/faq/using,2026-10-27
+OL-029,UK API Catalogue,API terms,Some catalogued APIs are restricted or unavailable to the public.,API key may be required,https://www.api.gov.uk/,2026-10-27
+OL-030,Cytoscape + MusicBrainz mashup,Scope check,"Stick to MusicBrainz core data, or separately handle supplementary data.",Graph and music APIs,https://musicbrainz.org/doc/About/Data_License,2026-10-27
+OL-031,AI Town,Verified,"Core code is open; model/API, infrastructure and third-party assets can cost money.",Requires hosting and model choice,https://github.com/a16z-infra/ai-town/blob/main/LICENSE,2026-10-27
+OL-032,Police.uk Open Data,Verified,Do not present reporting figures as a complete measure of safety or individuals.,Police API,https://data.police.uk/,2026-10-27
+OL-033,OpenHistoricalMap,Scope check,Default CC0; individual features may carry CC BY/CC BY-SA license=* tags. Hosted styles include other sources; check map tiles separately.,OHM API/export; separate map tiles,https://www.openhistoricalmap.org/copyright,2026-11-02
+OL-034,MapLibre GL JS,Verified,"BSD-3-Clause applies to library code; map styles, fonts, tiles and underlying data need separate rights and hosting terms.",JavaScript + lawful tile provider,https://github.com/maplibre/maplibre-gl-js/blob/main/LICENSE.txt,2026-11-02
+OL-035,Kenney Game Assets,Verified,Asset pages are CC0 and commercial reuse permitted; Kenney logo is not included. Check the selected pack's included licence.,Download specific CC0 asset pack,https://kenney.nl/support,2026-11-02
+OL-036,Poly Haven,Verified,"CC0 covers downloadable HDRIs, textures and 3D models, not logos, website text or example renders. Live API has separate attribution, user-agent and anti-scraping terms.",3D renderer; downloaded assets or compliant API,https://polyhaven.com/license,2026-11-02
+OL-037,Project Gutenberg,Item check,US copyright status does not establish UK reuse rights. Some ebooks are permission-based; commercial trademark use and bulk downloading have separate rules.,One title with UK copyright clearance; Ink optional,https://www.gutenberg.org/policy/license.html,2026-11-02
+OL-038,GBIF Biodiversity Data,Item check,"Records may be CC0, CC BY or CC BY-NC; filter out NC for commercial plans, credit dataset publishers, check media separately. Search API paginates/rate limits.",GBIF occurrence API; optional mapping,https://www.gbif.org/terms,2026-11-02
+OL-039,Open Food Facts,Scope check,"Database ODbL, contents DbCL, images CC BY-SA and may show third-party packaging. API 15 product reads/min/IP, 10 searches/min/IP; no search-as-you-type.",API with caching; data-quality warnings,https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/,2026-11-02
+OL-040,Automerge,Verified,"MIT core sync/CRDT library, not a complete authentication, encryption, access-control or production hosting solution.",JS library; optional sync server,https://github.com/automerge/automerge/blob/main/LICENSE,2026-11-02
+OL-041,GB Carbon Intensity API,API terms,"CC BY 4.0 displayed, but API terms prohibit selling API access and substantial replacement of official experience; rate limits and branding restrictions apply.",Regional forecast endpoint; attribution,https://github.com/carbon-intensity/terms,2026-11-02
+OL-042,Open-Meteo,API terms,"Free hosted API is non-commercial only, with rate limits; commercial use needs paid plan. Data CC BY 4.0; server code AGPLv3 (network copyleft).",Forecast API; compliant plan if monetised,https://open-meteo.com/en/terms,2026-11-02
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUICK LICENCE INTERPRETER,,,,,,
+MIT / BSD / ISC,Usually commercially usable open code; retain required notices; check dependencies.,,,,,
+Apache 2.0,Permissive code licence with notice and patent provisions; include notices.,,,,,
+CC0,No copyright rights reserved by licensor; check third-party and personality/property rights.,,,,,
+CC BY,"Reuse permitted including commercial, with proper attribution and indicated changes.",,,,,
+CC BY-SA,Share adapted covered material on matching/compatible terms; attribution.,,,,,
+OGL,Generally broad UK public-sector reuse with required attribution and exceptions.,,,,,
+ODbL,Open database licence; attribution and database-derived sharing rules may apply.,,,,,
+GPL,Copyleft obligations apply to covered distributed software and derivations.,,,,,
+Dataset/item-specific,Never treat a portal or API directory as universal permission.,,,,,
+API terms,"Rights to data, access limits, pricing and commercial conditions are separate questions.",,,,,
