@@ -1,5 +1,5 @@
 ID,Experiment,Prototype definition,Evidence / success test,Depends on,Estimate,Stage,Outcome / notes,Link to result
-OL-001,Decision Canvas,"Ten movable cards, three edge types, save/load a board",Ask two people to solve a real workflow ambiguity with it,React Flow,1 day,Ready,,
+OL-001,Decision Canvas,"Ten movable cards, three edge types, save/load a board",Ask two people to solve a real workflow ambiguity with it,React Flow,1 day,Live,"First playable deployed 2026-11-02. Source repo: https://github.com/241443Mooks/Decision-canvas- . Browser-local storage; live prototype, not yet user-validated. Further work paused pending a genuine use case.",https://decision-canvas.corneliuslobster.workers.dev/
 OL-007,Hidden Britain,Ten real scheduled sites on a location-specific map,Can someone discover one place they genuinely want to visit?,Historic England; maps,1–2 days,Ready,,
 OL-006,Rabbit Hole,"Choose one fact, surface five surprising connected facts",Can users navigate three links without getting lost?,Wikidata SPARQL,1 day,Ready,,
 OL-002,Microgame #1,"One mechanic, three levels, one win condition",Can three players understand and finish without instructions?,Phaser,1 day,Ready,,
