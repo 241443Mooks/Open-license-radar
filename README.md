@@ -15,6 +15,12 @@ A living, human-curated collection of **open-source foundations, open-licensed d
 
 The seed migration captures the **2 November 2026** refreshed workbook, including the original entries and notes. Original workbook remains a separate backup in ChatGPT Library.
 
+## Build status and current direction
+
+**OL-001 · Decision Canvas — Live (first playable, 2 November 2026).** [Open the deployed prototype](https://decision-canvas.corneliuslobster.workers.dev/) · [Source repository](https://github.com/241443Mooks/Decision-canvas-). The experience supports editable cards, labelled connections, browser-local persistence and JSON import/export. This records a working deployment, **not** completion of the experiment's user-validation test. Further development is paused until an actual use case emerges.
+
+**Current curiosity: map-based discovery.** The next candidate is not yet committed or in development. Promising 1–2 day options already in the experiment register are **OL-033 Time-Layer Explorer** (OpenHistoricalMap + MapLibre), **OL-007 Hidden Britain** (Historic England + mapped heritage sites), **OL-017 Geology Beneath My Walk** (BGS + maps), and **OL-038 Wild Near Me** (GBIF + maps). Choose a single location and five-to-ten objects/records for the first prototype; check map tiles, feature-level rights and attribution first.
+
 ## First things to try
 
 - **Decision Canvas** — [React Flow](https://reactflow.dev/): create, connect, save and reload ten visual nodes.
