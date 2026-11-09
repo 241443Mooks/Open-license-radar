@@ -60,3 +60,4 @@ ODbL,Open database licence; attribution and database-derived sharing rules may a
 GPL,Copyleft obligations apply to covered distributed software and derivations.,,,,,
 Dataset/item-specific,Never treat a portal or API directory as universal permission.,,,,,
 API terms,"Rights to data, access limits, pricing and commercial conditions are separate questions.",,,,,
+OL-043,OpenAQ,API terms,"API v3 requires registered API key and has rate limits; no scraping or unauthorised bulk download. Data licences vary by original publisher: check /v3/licenses and station/provider terms for commercial reuse attribution and share-alike. API server source MIT; SDK licences and maps/images are separate. No guarantee of station coverage or accuracy.",OpenAQ v3 key + station metadata + optional separately licensed basemap,https://docs.openaq.org/about/terms,2026-11-09
