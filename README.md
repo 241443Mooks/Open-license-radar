@@ -8,14 +8,17 @@ A living, human-curated collection of **open-source foundations, open-licensed d
 
 | File | What's inside |
 | --- | --- |
-| [Opportunity register](data/opportunities.csv) | All **42** existing resource records, with unique IDs, building ideas, tiny experiments, licences, evidence links, user-adjustable scores and stages |
-| [Experiment queue](data/experiments.csv) | **15** scoped prototype tests, with success evidence, estimated effort, stage, notes and result links |
+| [Opportunity register](data/opportunities.csv) | All **43** existing resource records, with unique IDs, building ideas, tiny experiments, licences, evidence links, user-adjustable scores and stages |
+| [Experiment queue](data/experiments.csv) | **16** scoped prototype tests, with success evidence, estimated effort, stage, notes and result links |
 | [Rights guide](data/rights-guide.csv) | Licence scope, reuse restrictions, dependencies and sources; **not legal clearance** |
 | [Review log](data/review-log.csv) | History of existing additions, evidence and decisions |
 
 The seed migration captures the **2 November 2026** refreshed workbook, including the original entries and notes. Original workbook remains a separate backup in ChatGPT Library.
 
 ## Build status and current direction
+
+**New 9 November 2026 · OL-043 OpenAQ (Fit 88/100).** [OpenAQ platform](https://openaq.org/platform/) offers global station-based air-quality observations. [Air Around Me](data/experiments.csv) is a 1–2-day three-city PM2.5 comparison, with timestamps, source licences and explicit coverage gaps. API v3 needs an account/key; [data licences are publisher-specific](https://docs.openaq.org/resources/licenses), and [access terms](https://docs.openaq.org/about/terms) restrict unauthorised downloading. This is a candidate, not a validated health or commercial product.
+
 
 **OL-001 · Decision Canvas — Live (first playable, 2 November 2026).** [Open the deployed prototype](https://decision-canvas.corneliuslobster.workers.dev/) · [Source repository](https://github.com/241443Mooks/Decision-canvas-). The experience supports editable cards, labelled connections, browser-local persistence and JSON import/export. This records a working deployment, **not** completion of the experiment's user-validation test. Further development is paused until an actual use case emerges.
 
@@ -53,6 +56,6 @@ The CSV stores current values, not live spreadsheet formulas. When changing rati
 
 **Source of truth:** the four CSV files under `data/`. Changes are tracked through normal Git commits. Weekly research should preserve existing values and add only substantiated, source-backed opportunities, using the existing schema.
 
-**Current snapshot:** 42 opportunities, 15 experiments; last source-workbook refresh: **2 November 2026**.
+**Current snapshot:** 43 opportunities, 16 experiments; last source-workbook refresh: **2 November 2026**.
 
 > **Licensing of this repository:** third-party links and descriptions retain their own rights, specified individually. The repository's public visibility does not itself grant a licence over original editorial content or code. Choose a repository licence deliberately before publishing reusable original materials.
