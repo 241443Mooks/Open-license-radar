@@ -8,8 +8,8 @@ A living, human-curated collection of **open-source foundations, open-licensed d
 
 | File | What's inside |
 | --- | --- |
-| [Opportunity register](data/opportunities.csv) | All **43** existing resource records, with unique IDs, building ideas, tiny experiments, licences, evidence links, user-adjustable scores and stages |
-| [Experiment queue](data/experiments.csv) | **16** scoped prototype tests, with success evidence, estimated effort, stage, notes and result links |
+| [Opportunity register](data/opportunities.csv) | All **44** existing resource records, with unique IDs, building ideas, tiny experiments, licences, evidence links, user-adjustable scores and stages |
+| [Experiment queue](data/experiments.csv) | **17** scoped prototype tests, with success evidence, estimated effort, stage, notes and result links |
 | [Rights guide](data/rights-guide.csv) | Licence scope, reuse restrictions, dependencies and sources; **not legal clearance** |
 | [Review log](data/review-log.csv) | History of existing additions, evidence and decisions |
 
@@ -56,6 +56,6 @@ The CSV stores current values, not live spreadsheet formulas. When changing rati
 
 **Source of truth:** the four CSV files under `data/`. Changes are tracked through normal Git commits. Weekly research should preserve existing values and add only substantiated, source-backed opportunities, using the existing schema.
 
-**Current snapshot:** 43 opportunities, 16 experiments; last source-workbook refresh: **2 November 2026**.
+**Current snapshot:** 44 opportunities, 17 experiments; last source-workbook refresh: **2 November 2026**.
 
 > **Licensing of this repository:** third-party links and descriptions retain their own rights, specified individually. The repository's public visibility does not itself grant a licence over original editorial content or code. Choose a repository licence deliberately before publishing reusable original materials.
